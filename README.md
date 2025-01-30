@@ -1,4 +1,4 @@
-This repository contains all the codes used in the PhD thesis "Comprehensive monitoring and prediction of seismicity within the Groningen gas field using large-scale field observations" by Zhuldyzay Baki, University of Twente
+This repository contains all the codes used in the PhD thesis "Comprehensive monitoring and prediction of seismicity within the Groningen gas field using large-scale field observations" by Zhuldyzay Baki, University of Twente.
 The PhD project is sponsored by NWO and is part of the DeepNL project grant number 2018.033
 
 The repository contains several blocks with each containing different part of the research process. Namely, included parts are:

@@ -1,1 +1,4 @@
-
+This folder contains codes related to the basic data-cleaning steps for this project.
+We do not include the cleaning performed in Excel files, for they are documented in detail in our publications and Chapter 2 of the thesis.
+Here, we include steps such as converting to proper date-time formats, defining R data-type formats and converting from one coordinate system to another.
+All the additional clarifications can be found in the comments inside the attached code file.

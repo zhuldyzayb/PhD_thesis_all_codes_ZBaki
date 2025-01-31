@@ -1,2 +1,18 @@
-This part of the code contains all the datasets used in this project as well as their source information.
+This part of the code contains all the datasets used in this project as well as their source information. Detailed info is also available in the publications cited in the main README file.
 
+1. Monthly production volumes at the Groningen gas field are obtained as per personal communication with NAM representatives Jan van Elk and Rob van Eijs.
+   - The initial data "Groningen cluster production monthly to end 2021.xlsx" was obtained from Rob van Eijs on February 2, 2022
+   - The updated version up to 2023 ("Groningen Gasveld Productie 1963-2023.xlsx") was sent by Jan van Elk on March 7, 2024, with the following note: 
+     "It includes all production until the field was closed-in at 6 am on 1st October 2023. Minor production since then is a very, very, very low volume."
+   - Alternatively, the current version of the webpage (as of January 2025) contains the full extraction history through the following link:
+     "https://nam-onderzoeksrapporten.data-app.nl/reports/download/groningen/en/4d75966a-d067-45e1-9690-13d11019d8c4"
+
+2. "GroningenPressureData.xlsx" is also available on the NAM webpage. The detailed cleaning done on the data can be found in Van Lieshout and Baki (2023)
+   and a PhD thesis by Baki (2025).
+
+3. "all_induced.csv" can be downloaded on the KNMI webpage: "www.knmi.nl/kennis-en-datacentrum/dataset/aardbevingscatalogus"
+
+4. The production plan "groningen-winninsplan-2003-sanned1.pdf" is downloaded from NAM reports on their webpage. 
+   The file contains all the well locations in Amersford RD coordinates. The "well_locations.csv" file is just an extract from the production plan
+
+5. The folder "Gasfield" contains the shapefiles that define the gasfield coordinates as of April 2022 and are available on NLOG webpage (www.nlog.nl)

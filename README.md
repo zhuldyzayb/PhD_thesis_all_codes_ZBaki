@@ -1,4 +1,5 @@
 This repository contains all the codes used in the PhD thesis "Comprehensive monitoring and prediction of seismicity within the Groningen gas field using large-scale field observations" by Zhuldyzay Baki, University of Twente.
+https://research.utwente.nl/en/publications/comprehensive-monitoring-and-prediction-of-seismicity-within-the-
 The PhD project is sponsored by NWO and is part of the DeepNL project grant number 2018.033
 
 The repository contains several blocks, with each containing a different part of the research process. Namely, the included parts are:
@@ -18,7 +19,7 @@ OR PhD thesis of Zhuldyzay Baki.
 The thesis text is available through ISBN(digital): 978-90-365-6490-8 or DOI: 10.3990/1.9789036564908 starting March 11th, 2025. All rights reserved. No parts of the thesis may be reproduced, stored in a retrieval system or transmitted
 in any form or by any means without permission of the author.
 
-The codes in this repository are also private and available for specified public upon request and prior authorisation. 
+The codes in this repository are also the intellectual property of the author and require a proper citation to the source. 
 
 Each block of codes contains separate README description files as well as inline comments inside code files.
 Programming languages used: R, C++
